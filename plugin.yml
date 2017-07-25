@@ -6,4 +6,6 @@ api: [3.0.0, 3.0.1]
 main: kitsOp\kit\Main
 commands: /kitsop
 description: usa para ver los kits
-permission: kitsop.command
+permissios:
+kitsop.command
+kit.vip
