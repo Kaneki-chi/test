@@ -1,4 +1,4 @@
-Como mi primer proyecto voy a intentar aprender mas sobre php
+plugin de kits que usare en mi servidor PROXIMAMENTE
 
 Prueba
 # test
