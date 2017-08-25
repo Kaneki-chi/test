@@ -2,10 +2,13 @@
 name: kitsOp
 autor: kaneki-ken
 version: 0.1 beta
-api: [3.0.0, 3.0.1]
+api: [2.0.0, 3.0.0, 3.0.1]
 main: kitsOp\kit\Main
-commands: /kitsop
+commands: /kitsop [vip, vip+, fakevip, gratis]
 description: usa para ver los kits
 permissios:
 kitsop.command
 kit.vip
+kit.vips
+kit.fake
+kit.free
